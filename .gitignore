@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
-chapters/.DS_Store
+**/.DS_Store
 
 # Data sets
 chapters/ch06/data/**
