@@ -107,4 +107,4 @@ venv.bak/
 chapters/.DS_Store
 
 # Data sets
-chapters/ch06/data/sentiment labelled sentences/**
+chapters/ch06/data/**
