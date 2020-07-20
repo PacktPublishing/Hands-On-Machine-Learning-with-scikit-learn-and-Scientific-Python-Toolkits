@@ -1,5 +1,8 @@
 # Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits
-## [A practical guide to implementing supervised and unsupervised machine learning algorithms in Python](https://www.packtpub.com/eu/data/hands-on-machine-learning-with-scikit-learn)
+
+Code samples for [Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits: A practical guide to implementing supervised and unsupervised machine learning algorithms in Python](https://www.packtpub.com/eu/data/hands-on-machine-learning-with-scikit-learn) book
+
+## About the Book
 
 Machine learning is applied everywhere, from business to research and academia, while Scikit-Learn is a versatile library that is popular among machine learning practitioners. This book serves as a practical guide for anyone looking to provide hands-on machine learning solutions with Scikit-Learn and Python toolkits.
 
