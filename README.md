@@ -16,7 +16,7 @@ In this repo, you will find the code examples used in the book. I also include h
 The book has 13 chapters, covering the different aspects of machine learning, such as supervised learning, unsupervised learning, anomaly detection, recommendation systems. Here is a list of the chapters in this book.
 
 ## Section 1: Supervised Learning
-- Chapter 1: Introduction to Machine Learning - [code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch01)
+- Chapter 1: Introduction to Machine Learning [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch01)]
 - Chapter 2: Making Decisions with Trees
 - Chapter 3: Making Decisions with Linear Equations
 - Chapter 4: Preparing Your Data
