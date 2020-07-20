@@ -1,5 +1,14 @@
-# scikitbook
-Repo for my Scikit Learn Book [Code + Book]
+# Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits:
+## A practical guide to implementing supervised and unsupervised machine learning algorithms in Python
+
+Machine learning is applied everywhere, from business to research and academia, while Scikit-Learn is a versatile library that is popular among machine learning practitioners. This book serves as a practical guide for anyone looking to provide hands-on machine learning solutions with scikit-learn and Python toolkits.
+
+The book begins with an explanation of machine learning concepts and fundamentals, and strikes a balance between theoretical concepts and their applications. Each chapter covers a different set of algorithms, and shows you how to use them to solve real-life problems. You’ll also learn various key supervised and unsupervised machine learning algorithms using practical examples. Whether it is an instance-based learning algorithm, Bayesian estimation, a deep neural network, a tree-based ensemble, or a recommendation system, you’ll gain a thorough understanding of its theory and learn when to apply it. As you advance, you’ll learn how to deal with unlabeled data and when to use different clustering and anomaly detection algorithms.
+
+By the end of this machine learning book, you’ll have learnt how to take a data-driven approach to provide end-to-end machine learning solutions. You’ll also have discovered how to formulate the problem at hand, prepare required data, and evaluate and deploy models in production.
+
+In this repo, you will find the code examples used in the book. I also include here parts of the code omitted in the book, such as the data visualization styling, additional formatting, etc.
+
 
 # Running the code
 
@@ -24,3 +33,12 @@ And to run Jupyter:
 ```
 jupyter notebook
 ```
+
+# Getting the Book
+
+You can [get the book from here](https://www.packtpub.com/eu/data/hands-on-machine-learning-with-scikit-learn).
+You book reviews are highly appreciated.  
+
+# About the Author
+
+Tarek Amr has 8 years of experience in data science and machine learning. After finishing his postgraduate degree at the University of East Anglia, he worked in a number of startups and scaleup companies in Egypt and in the Netherlands. This is his second data-related book. His previous book is about data visualization using D3.js. He enjoys giving talks and writing about different computer science and business concepts and explaining them to a wider audience. He can be reached on twitter at [@gr33ndata](https://twitter.com/gr33ndata). He is happy to respond to all questions related to this book. Feel free to reach him if any parts of the book need clarifications or if you would like to discuss any of the concepts there in more detail.
