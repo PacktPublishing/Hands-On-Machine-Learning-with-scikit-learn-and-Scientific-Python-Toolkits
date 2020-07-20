@@ -24,15 +24,15 @@ The book has 13 chapters, covering the different aspects of machine learning, su
 - Chapter 6: Classifying Text Using Naive Bayes [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch06)]
 
 ## Section 2: Section 2: Advanced Supervised Learning
-- Chapter 7: Neural Networks; Here Comes the Deep Learning
-- Chapter 8: Ensembles; When One Model Is Not Enough
-- Chapter 9: The Y is as Important as the X
-- Chapter 10: Imbalanced Learning; Not Even 1% Win the Lottery
+- Chapter 7: Neural Networks; Here Comes the Deep Learning [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch07)]
+- Chapter 8: Ensembles; When One Model Is Not Enough [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch08)]
+- Chapter 9: The Y is as Important as the X [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch09)]
+- Chapter 10: Imbalanced Learning; Not Even 1% Win the Lottery [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch10)]
 
 ## Section 3: Section 3: Unsupervised Learning and More
-- Chapter 11: Clustering; Making Sense of Unlabeled Data
-- Chapter 12: Anomaly Detection; Finding Outliers in Data
-- Chapter 13: Recommender System; Getting to Know Their Taste
+- Chapter 11: Clustering; Making Sense of Unlabeled Data [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch11)]
+- Chapter 12: Anomaly Detection; Finding Outliers in Data [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch12)]
+- Chapter 13: Recommender System; Getting to Know Their Taste [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch13)]
 
 
 
