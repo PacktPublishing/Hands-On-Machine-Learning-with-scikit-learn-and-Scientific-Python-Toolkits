@@ -63,7 +63,7 @@ jupyter notebook
 # Getting the Book
 
 You can [get the book from here](https://www.packtpub.com/eu/data/hands-on-machine-learning-with-scikit-learn).
-Your book reviews are highly appreciated.  
+You can also find the [book's page on Good Reads here](https://www.goodreads.com/book/show/54539914-hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolki), your book reviews are highly appreciated.  
 
 # About the Author
 
