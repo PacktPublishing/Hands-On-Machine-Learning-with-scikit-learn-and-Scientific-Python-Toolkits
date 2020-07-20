@@ -17,13 +17,13 @@ The book has 13 chapters, covering the different aspects of machine learning, su
 
 ## Section 1: Supervised Learning
 - Chapter 1: Introduction to Machine Learning [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch01)]
-- Chapter 2: Making Decisions with Trees
-- Chapter 3: Making Decisions with Linear Equations
-- Chapter 4: Preparing Your Data
-- Chapter 5: Image Processing with Nearest Neighbors
-- Chapter 6: Classifying Text Using Naive Bayes
+- Chapter 2: Making Decisions with Trees [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch02)]
+- Chapter 3: Making Decisions with Linear Equations [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch03)]
+- Chapter 4: Preparing Your Data [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch04)]
+- Chapter 5: Image Processing with Nearest Neighbors [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch05)]
+- Chapter 6: Classifying Text Using Naive Bayes [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch06)]
 
-## Section 2: Section 2: Advanced Supervised Learning	0	16 Jul 2020, 05:59
+## Section 2: Section 2: Advanced Supervised Learning
 - Chapter 7: Neural Networks; Here Comes the Deep Learning
 - Chapter 8: Ensembles; When One Model Is Not Enough
 - Chapter 9: The Y is as Important as the X
