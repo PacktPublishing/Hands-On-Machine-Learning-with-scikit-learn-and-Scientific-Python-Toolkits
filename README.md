@@ -1,13 +1,39 @@
-# Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits:
+# Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits
 ## A practical guide to implementing supervised and unsupervised machine learning algorithms in Python
 
-Machine learning is applied everywhere, from business to research and academia, while Scikit-Learn is a versatile library that is popular among machine learning practitioners. This book serves as a practical guide for anyone looking to provide hands-on machine learning solutions with scikit-learn and Python toolkits.
+Machine learning is applied everywhere, from business to research and academia, while Scikit-Learn is a versatile library that is popular among machine learning practitioners. This book serves as a practical guide for anyone looking to provide hands-on machine learning solutions with Scikit-Learn and Python toolkits.
 
 The book begins with an explanation of machine learning concepts and fundamentals, and strikes a balance between theoretical concepts and their applications. Each chapter covers a different set of algorithms, and shows you how to use them to solve real-life problems. You’ll also learn various key supervised and unsupervised machine learning algorithms using practical examples. Whether it is an instance-based learning algorithm, Bayesian estimation, a deep neural network, a tree-based ensemble, or a recommendation system, you’ll gain a thorough understanding of its theory and learn when to apply it. As you advance, you’ll learn how to deal with unlabeled data and when to use different clustering and anomaly detection algorithms.
 
 By the end of this machine learning book, you’ll have learnt how to take a data-driven approach to provide end-to-end machine learning solutions. You’ll also have discovered how to formulate the problem at hand, prepare required data, and evaluate and deploy models in production.
 
+This book goes beyond Scikit-Learn, and introduces you to complementary libraries such as NumPy, Pandas, SpaCy, imbalanced-learn, and Scikit-Surprise. The theoretical knowledge in this book should also prepare you to use libraries not mentioned here such as Tensor Flow and Pytorch.
+
 In this repo, you will find the code examples used in the book. I also include here parts of the code omitted in the book, such as the data visualization styling, additional formatting, etc.
+
+# Chapters
+
+The book has 13 chapters, covering the different aspects of machine learning, such as supervised learning, unsupervised learning, anomaly detection, recommendation systems. Here is a list of the chapters in this book.
+
+## Section 1: Supervised Learning
+- Chapter 1: Introduction to Machine Learning - [code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch01)
+- Chapter 2: Making Decisions with Trees
+- Chapter 3: Making Decisions with Linear Equations
+- Chapter 4: Preparing Your Data
+- Chapter 5: Image Processing with Nearest Neighbors
+- Chapter 6: Classifying Text Using Naive Bayes
+
+## Section 2: Section 2: Advanced Supervised Learning	0	16 Jul 2020, 05:59
+- Chapter 7: Neural Networks; Here Comes the Deep Learning
+- Chapter 8: Ensembles; When One Model Is Not Enough
+- Chapter 9: The Y is as Important as the X
+- Chapter 10: Imbalanced Learning; Not Even 1% Win the Lottery
+
+## Section 3: Section 3: Unsupervised Learning and More
+- Chapter 11: Clustering; Making Sense of Unlabeled Data
+- Chapter 12: Anomaly Detection; Finding Outliers in Data
+- Chapter 13: Recommender System; Getting to Know Their Taste
+
 
 
 # Running the code
@@ -37,7 +63,7 @@ jupyter notebook
 # Getting the Book
 
 You can [get the book from here](https://www.packtpub.com/eu/data/hands-on-machine-learning-with-scikit-learn).
-You book reviews are highly appreciated.  
+Your book reviews are highly appreciated.  
 
 # About the Author
 
