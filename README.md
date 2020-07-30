@@ -1,9 +1,12 @@
 # Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits
 
-Code samples for [Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits: A practical guide to implementing supervised and unsupervised machine learning algorithms in Python](https://www.packtpub.com/eu/data/hands-on-machine-learning-with-scikit-learn) book
+<a href="https://www.packtpub.com/data/hands-on-machine-learning-with-scikit-learn?utm_source=github&utm_medium=repository&utm_campaign=9781838826048"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781838826048-original_44.png" alt="Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits" height="256px" align="right"></a>
 
-## About the Book
+This is the code repository for [Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits](https://www.packtpub.com/data/hands-on-machine-learning-with-scikit-learn?utm_source=github&utm_medium=repository&utm_campaign=9781838826048, published by Packt.
 
+**A practical guide to implementing supervised and unsupervised machine learning algorithms in Python**
+
+## What is this book about?
 Machine learning is applied everywhere, from business to research and academia, while Scikit-Learn is a versatile library that is popular among machine learning practitioners. This book serves as a practical guide for anyone looking to provide hands-on machine learning solutions with Scikit-Learn and Python toolkits.
 
 The book begins with an explanation of machine learning concepts and fundamentals, and strikes a balance between theoretical concepts and their applications. Each chapter covers a different set of algorithms, and shows you how to use them to solve real-life problems. You’ll also learn various key supervised and unsupervised machine learning algorithms using practical examples. Whether it is an instance-based learning algorithm, Bayesian estimation, a deep neural network, a tree-based ensemble, or a recommendation system, you’ll gain a thorough understanding of its theory and learn when to apply it. As you advance, you’ll learn how to deal with unlabeled data and when to use different clustering and anomaly detection algorithms.
@@ -14,35 +17,49 @@ This book goes beyond Scikit-Learn, and introduces you to complementary librarie
 
 In this repo, you will find the code examples used in the book. I also include here parts of the code omitted in the book, such as the data visualization styling, additional formatting, etc.
 
-# Chapters
+This book covers the following exciting features: 
+* Understand when to use supervised, unsupervised, or reinforcement learning algorithms
+* Find out how to collect and prepare your data for machine learning tasks
+* Tackle imbalanced data and optimize your algorithm for a bias or variance tradeoff
+* Apply supervised and unsupervised algorithms to overcome various machine learning challenges
+* Employ best practices for tuning your algorithm’s hyper parameters
+* Discover how to use neural networks for classification and regression
+* Build, evaluate, and deploy your machine learning solutions to production
 
-The book has 13 chapters, covering the different aspects of machine learning, such as supervised learning, unsupervised learning, anomaly detection, recommendation systems. Here is a list of the chapters in this book.
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838826041) today!
 
-## Section 1: Supervised Learning
-- Chapter 1: Introduction to Machine Learning [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch01)]
-- Chapter 2: Making Decisions with Trees [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch02)]
-- Chapter 3: Making Decisions with Linear Equations [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch03)]
-- Chapter 4: Preparing Your Data [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch04)]
-- Chapter 5: Image Processing with Nearest Neighbors [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch05)]
-- Chapter 6: Classifying Text Using Naive Bayes [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch06)]
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
-## Section 2: Section 2: Advanced Supervised Learning
-- Chapter 7: Neural Networks; Here Comes the Deep Learning [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch07)]
-- Chapter 8: Ensembles; When One Model Is Not Enough [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch08)]
-- Chapter 9: The Y is as Important as the X [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch09)]
-- Chapter 10: Imbalanced Learning; Not Even 1% Win the Lottery [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch10)]
+## Instructions and Navigations
+All of the code is organized into folders.
 
-## Section 3: Section 3: Unsupervised Learning and More
-- Chapter 11: Clustering; Making Sense of Unlabeled Data [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch11)]
-- Chapter 12: Anomaly Detection; Finding Outliers in Data [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch12)]
-- Chapter 13: Recommender System; Getting to Know Their Taste [[Code](https://github.com/PacktPublishing/hands-on-machine-learning-with-scikit-learn/tree/master/chapters/ch13)]
+The code will look like the following:
+```
+import numpy as np
+import scipy as sp
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
+```
+
+**Following is what you need for this book:**
+This book is for machine learning data scientists who want to master the theoretical and practical sides of machine learning algorithms and understand how to use them to solve real-life problems. Working knowledge of Python and a basic understanding of underlying mathematical and statistical concepts is required. Nevertheless, this book will walk you through the new concepts to cater to both new and experienced data scientists. 
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
+
+### Software and Hardware List
+
+| Chapter  | Software required                                                                    | OS required                        |
+| -------- | -------------------------------------------------------------------------------------| -----------------------------------|
+| 1 - 13   |   Python 3.x, Jupyter Notebook/Google Colab                                         | Windows, Mac OS X, and Linux (Any) |
 
 
 # Running the code
 
-I suggest you create a conda environment first,
-then install the required libs there:
+You will need Python 3.x installed on your computer. It is a good practice to set up a virtual environment to install the required libraries into. It's up to you whether you wish to use Python's venv module, the virtual environment provided by Anaconda, or any other option you like. We'll be using pip to install the libraries needed in the book, but once more, it is up to you whether you prefer to use conda or any other alternatives. 
+
+We suggest you create a conda environment first, then install the required libs there:
 
 ```
 conda create -n scikitbook python=3.6
@@ -63,11 +80,19 @@ And to run Jupyter:
 jupyter notebook
 ```
 
-# Getting the Book
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838826048_ColorImages.pdf).
 
-You can [get the book from here](https://www.packtpub.com/eu/data/hands-on-machine-learning-with-scikit-learn).
+
+### Related products <Other books you may enjoy>
+* Python Machine Learning - Third Edition [[Packt]](https://www.packtpub.com/data/python-machine-learning-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789955750) [[Amazon]](https://www.amazon.com/dp/1789955750)
+
+* Mastering Machine Learning Algorithms - Second Edition [[Packt]](https://www.packtpub.com/data/mastering-machine-learning-algorithms-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838820299) [[Amazon]](https://www.amazon.com/dp/B0843PMXPV)
+
+## Get to Know the Author
+*Tarek Amr** 
+has 8 years of experience in data science and machine learning. After finishing his postgraduate degree at the University of East Anglia, he worked in a number of startups and scaleup companies in Egypt and in the Netherlands. This is his second data-related book. His previous book is about data visualization using D3.js. He enjoys giving talks and writing about different computer science and business concepts and explaining them to a wider audience. He can be reached on twitter at [@gr33ndata](https://twitter.com/gr33ndata). He is happy to respond to all questions related to this book. Feel free to reach him if any parts of the book need clarifications or if you would like to discuss any of the concepts there in more detail.
+
 You can also find the [book's page on Good Reads here](https://www.goodreads.com/book/show/54539914-hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolki), your book reviews are highly appreciated.  
 
-# About the Author
-
-Tarek Amr has 8 years of experience in data science and machine learning. After finishing his postgraduate degree at the University of East Anglia, he worked in a number of startups and scaleup companies in Egypt and in the Netherlands. This is his second data-related book. His previous book is about data visualization using D3.js. He enjoys giving talks and writing about different computer science and business concepts and explaining them to a wider audience. He can be reached on twitter at [@gr33ndata](https://twitter.com/gr33ndata). He is happy to respond to all questions related to this book. Feel free to reach him if any parts of the book need clarifications or if you would like to discuss any of the concepts there in more detail.
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
