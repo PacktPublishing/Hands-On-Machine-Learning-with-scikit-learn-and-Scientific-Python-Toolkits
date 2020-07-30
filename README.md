@@ -92,7 +92,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Tarek Amr** 
 has 8 years of experience in data science and machine learning. After finishing his postgraduate degree at the University of East Anglia, he worked in a number of startups and scaleup companies in Egypt and in the Netherlands. This is his second data-related book. His previous book is about data visualization using D3.js. He enjoys giving talks and writing about different computer science and business concepts and explaining them to a wider audience. He can be reached on twitter at [@gr33ndata](https://twitter.com/gr33ndata). He is happy to respond to all questions related to this book. Feel free to reach him if any parts of the book need clarifications or if you would like to discuss any of the concepts there in more detail.
 
-You can also find the [book's page on Good Reads here](https://www.goodreads.com/book/show/54539914-hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolki), your book reviews are highly appreciated.  
+You can also find the book's page on Good Reads [here](https://www.goodreads.com/book/show/54539914-hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolki), your book reviews are highly appreciated.  
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
