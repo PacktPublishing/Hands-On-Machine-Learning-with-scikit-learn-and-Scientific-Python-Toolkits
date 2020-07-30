@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/data/hands-on-machine-learning-with-scikit-learn?utm_source=github&utm_medium=repository&utm_campaign=9781838826048"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781838826048-original_44.png" alt="Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits](https://www.packtpub.com/data/hands-on-machine-learning-with-scikit-learn?utm_source=github&utm_medium=repository&utm_campaign=9781838826048, published by Packt.
+This is the code repository for [Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits](https://www.packtpub.com/data/hands-on-machine-learning-with-scikit-learn?utm_source=github&utm_medium=repository&utm_campaign=9781838826048), published by Packt.
 
 **A practical guide to implementing supervised and unsupervised machine learning algorithms in Python**
 
@@ -89,7 +89,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Mastering Machine Learning Algorithms - Second Edition [[Packt]](https://www.packtpub.com/data/mastering-machine-learning-algorithms-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838820299) [[Amazon]](https://www.amazon.com/dp/B0843PMXPV)
 
 ## Get to Know the Author
-*Tarek Amr** 
+**Tarek Amr** 
 has 8 years of experience in data science and machine learning. After finishing his postgraduate degree at the University of East Anglia, he worked in a number of startups and scaleup companies in Egypt and in the Netherlands. This is his second data-related book. His previous book is about data visualization using D3.js. He enjoys giving talks and writing about different computer science and business concepts and explaining them to a wider audience. He can be reached on twitter at [@gr33ndata](https://twitter.com/gr33ndata). He is happy to respond to all questions related to this book. Feel free to reach him if any parts of the book need clarifications or if you would like to discuss any of the concepts there in more detail.
 
 You can also find the [book's page on Good Reads here](https://www.goodreads.com/book/show/54539914-hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolki), your book reviews are highly appreciated.  
