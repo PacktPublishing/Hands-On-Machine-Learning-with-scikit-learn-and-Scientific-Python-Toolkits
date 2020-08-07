@@ -71,3 +71,21 @@ You can also find the [book's page on Good Reads here](https://www.goodreads.com
 # About the Author
 
 Tarek Amr has 8 years of experience in data science and machine learning. After finishing his postgraduate degree at the University of East Anglia, he worked in a number of startups and scaleup companies in Egypt and in the Netherlands. This is his second data-related book. His previous book is about data visualization using D3.js. He enjoys giving talks and writing about different computer science and business concepts and explaining them to a wider audience. He can be reached on twitter at [@gr33ndata](https://twitter.com/gr33ndata). He is happy to respond to all questions related to this book. Feel free to reach him if any parts of the book need clarifications or if you would like to discuss any of the concepts there in more detail.
+
+
+# Book Citation
+
+Please make sure to cite the book if you use it in your research:
+
+BiBTeX:
+
+```
+@book{amr2020hands,
+  title={Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits: A practical guide to implementing supervised and unsupervised machine learning algorithms in Python},
+  author={Amr, T.},
+  isbn={9781838823580},
+  url={https://books.google.nl/books?id=GlbzDwAAQBAJ},
+  year={2020},
+  publisher={Packt Publishing}
+}
+```
