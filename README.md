@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolkits/9781838826048)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1838826041).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits
 
 <a href="https://www.packtpub.com/data/hands-on-machine-learning-with-scikit-learn?utm_source=github&utm_medium=repository&utm_campaign=9781838826048"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781838826048-original_44.png" alt="Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits" height="256px" align="right"></a>
