@@ -103,11 +103,11 @@ BiBTeX:
 ```
 @book{amr2020hands,
   title={Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits: A practical guide to implementing supervised and unsupervised machine learning algorithms in Python},
-  author={Amr, T.},
+  author={Amr, Tarek},
   isbn={9781838823580},
   url={https://books.google.nl/books?id=GlbzDwAAQBAJ},
   year={2020},
-  publisher={Packt Publishing}
+  publisher={Packt Publishing, Limited}
 }
 ```
 
