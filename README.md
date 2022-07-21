@@ -32,7 +32,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838
 
 ## Book Reviews
 
-From [GoodReads](https://www.goodreads.com/book/show/54539914-hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolki):
+### From [GoodReads](https://www.goodreads.com/book/show/54539914-hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolki):
 
 Ali Faizan rated it: 5 out of 5 stars.
 > For a machine learning noob like me, it was pleasing to see that the book did not dive straight into the nitty-gritty of machine learning algorithms: it first established the raison d’être for machine learning and cohesively captured the whole gamut of developing a machine learning model. This helped me quite a bit to understand the bigger picture later on in the book where it demonstrated the practical use of various machine learning algorithms. I'll happily recommend this book to anyone interested in scikit-learn, and machine learning in general too
@@ -40,7 +40,7 @@ Ali Faizan rated it: 5 out of 5 stars.
 Paul Schmidt rated it: 5 out of 5 stars.
 > This book is information rich with practical examples. I whom never read or touched this area was suprised to learn the weight that data analysis had on machine learning. Yes, this book also teaches you about data analysis. Throughout the chapters you learn what not to do when building machine learning and deep learning models. The author teaches you what not to do by analysing the data at hand and improving the models upon that knowledge. The book is very information rich and can easily be reread from chapter to chapter. There are some things to keep in mind, this book is not for python beginners and i urge you to know some of the basics from the pandas and matplotlib modules. In other words this book is strongly recommended. 
 
-From [Amazon](https://www.amazon.com/Machine-Learning-scikit-learn-Scientific-Toolkits-ebook/dp/B08BTFY8YW/):
+### From [Amazon](https://www.amazon.com/Machine-Learning-scikit-learn-Scientific-Toolkits-ebook/dp/B08BTFY8YW/):
 
 Przemyslaw Chojecki rated it: 5 out of 5 stars.
 > If you've already did a couple of data science projects, had a basic understanding of Python, did some visualisation and want to go deeper into some details of what it means to analyse data, then this book is for you. This is a practical guide to both supervised and unsupervised learning with plenty of examples in code. The main focus is on imperfect data and how to make sense of these imperfections through various machine learning algorithms. The author discusses standard data science algorithms using scikit-learn library which gives a coherent overview of the subjest. You will learn decision trees, KNN classification, Naive Bayes and much more; applied to classical datasets like Iris dataset, Boston housing prices or Fashion-MNIST. Recommended for beginning data scientists!
