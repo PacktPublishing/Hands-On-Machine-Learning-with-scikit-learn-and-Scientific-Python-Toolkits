@@ -1,4 +1,4 @@
-# Chapter 3: Making Decisions with Linear Models
+# Chapter 3: Making Decisions with Linear Equations
 
 The linear models are possibly the most commonly used algorithms in statistics and machine learning. They are used for both regression and classification. Thus, in this chapter we will start by looking into the basic least-squares algorithm, then will move on to more advanced algorithms as the chapter progresses. 
 
