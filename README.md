@@ -3,7 +3,7 @@
 
 # Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits
 
-<a href="https://www.packtpub.com/data/hands-on-machine-learning-with-scikit-learn?utm_source=github&utm_medium=repository&utm_campaign=9781838826048"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781838826048-original_44.png" alt="Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolkits/9781838826048"><img src="https://content.packt.com/B14485/cover_image_small.png" alt="Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Machine Learning with Scikit-Learn and Scientific Python Toolkits](https://www.packtpub.com/data/hands-on-machine-learning-with-scikit-learn?utm_source=github&utm_medium=repository&utm_campaign=9781838826048), published by Packt.
 
