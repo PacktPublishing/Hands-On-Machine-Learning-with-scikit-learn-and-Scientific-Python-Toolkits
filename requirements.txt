@@ -13,7 +13,7 @@ decorator==4.4.1
 defusedxml==0.6.0
 en-core-web-md==2.2.5
 entrypoints==0.3
-idna==2.8
+idna==3.7
 imageio==2.6.1
 imbalanced-learn==0.6.2
 importlib-metadata==0.23
