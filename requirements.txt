@@ -5,7 +5,7 @@ bleach==3.3.0
 blis==0.4.1
 catalogue==1.0.0
 category-encoders==2.1.0
-certifi==2023.7.22
+certifi==2024.7.4
 chardet==3.0.4
 cycler==0.10.0
 cymem==2.0.3
