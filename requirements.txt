@@ -32,7 +32,7 @@ jupyter-core==4.11.2
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.1.2
-mistune==2.0.3
+mistune==3.2.1
 mkl-fft==1.0.15
 mkl-random==1.1.0
 mkl-service==2.3.0
